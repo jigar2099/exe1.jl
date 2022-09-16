@@ -1,0 +1,13 @@
+name = "exe1"
+uuid = "9d3ac362-860a-4617-9b34-16677af61e63"
+authors = ["Jigar Bhanderi"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
